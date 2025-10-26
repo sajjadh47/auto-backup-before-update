@@ -1,0 +1,17 @@
+td.backup_actions {
+	display: flex;
+	gap: 10px;
+}
+
+td.column-versions {
+	white-space: nowrap;
+	overflow-x: auto;
+}
+
+.abbu_backups table {
+	border-collapse: collapse;
+}
+
+.versions_table {
+	margin: 0;
+}
