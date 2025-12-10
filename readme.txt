@@ -3,9 +3,9 @@ Tags: backup, rollback, plugin update, auto backup, restore
 Contributors: sajjad67
 Author: Sajjad Hossain Sagor
 Requires at least: 6.5
-Tested up to: 6.8
+Tested up to: 6.9
 Requires PHP: 7.4
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -26,7 +26,7 @@ No more guessing what went wrong after an update — simply restore to the last 
 1. When you update a plugin or theme, this plugin creates a backup snapshot of:
    - The specific plugin or theme files being updated.
 2. After the update, if the site breaks or an issue occurs, go to:
-   **Dashboard → Tools → Auto Backup Before Update → Restore**
+   **Dashboard → ABBU → Restore**
 3. Choose the item and version to restore — and you’re back online instantly.
 
 ### Ideal For
@@ -38,7 +38,7 @@ No more guessing what went wrong after an update — simply restore to the last 
 1. Upload the plugin folder to `/wp-content/plugins/auto-backup-before-update/` or install directly from the WordPress Plugin Directory.
 2. Activate the plugin through the ‘Plugins’ menu in WordPress.
 3. Backups are automatically triggered before plugin, theme, or core updates.
-4. To restore, navigate to **Menu → ABBU → Restore**.
+4. To restore, navigate to **Dashboard → ABBU → Restore**.
 
 == Screenshots ==
 1. Backup settings and restore panel.
@@ -59,6 +59,8 @@ Yes. Each plugin and theme backup is tied to its previous version, allowing sele
 Yes, backups are created automatically before both manual and scheduled auto-updates.
 
 == Changelog ==
+= 1.0.1 =
+- Compatibility checkup for latest wp version 6.9
 = 1.0.0 =
 * Initial release
 * Automatic pre-update backups for plugins and themes
