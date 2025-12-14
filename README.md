@@ -1,6 +1,6 @@
 # Auto Backup Before Update
 
-[![Plugin Banner](https://ps.w.org/auto-backup-before-update/assets/banner-772x250.png)](https://wordpress.org/plugins/auto-backup-before-update/)
+[![Plugin Banner](https://ps.w.org/auto-backup-before-update/assets/banner-1544x500.png)](https://wordpress.org/plugins/auto-backup-before-update/)
 
 **Tags:** backup, rollback, plugin update, auto backup, restore \
 **Tested up to:** 6.9 \
