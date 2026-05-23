@@ -3,9 +3,9 @@ Tags: backup, rollback, plugin update, auto backup, restore
 Contributors: sajjad67
 Author: Sajjad Hossain Sagor
 Requires at least: 6.5
-Tested up to: 6.9
+Tested up to: 7.0
 Requires PHP: 7.4
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -59,6 +59,8 @@ Yes. Each plugin and theme backup is tied to its previous version, allowing sele
 Yes, backups are created automatically before both manual and scheduled auto-updates.
 
 == Changelog ==
+= 1.0.2 =
+- Compatibility checkup for latest wp version 7.0
 = 1.0.1 =
 - Compatibility checkup for latest wp version 6.9
 = 1.0.0 =

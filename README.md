@@ -3,7 +3,7 @@
 [![Plugin Banner](https://ps.w.org/auto-backup-before-update/assets/banner-1544x500.png)](https://wordpress.org/plugins/auto-backup-before-update/)
 
 **Tags:** backup, rollback, plugin update, auto backup, restore \
-**Tested up to:** 6.9 \
+**Tested up to:** 7.0 \
 **Requires PHP:** 7.4
 
 Automatically backs up each plugin and theme before updates — allowing quick rollback to previous versions if anything goes wrong.
@@ -73,6 +73,9 @@ Yes, backups are created automatically before both manual and scheduled auto-upd
 ![screenshot-3](https://ps.w.org/auto-backup-before-update/assets/screenshot-3.png)
 
 ## Changelog
+
+### 1.0.2
+- Compatibility checkup for latest wp version 7.0
 
 ### 1.0.1
 - Compatibility checkup for latest wp version 6.9
