@@ -13,7 +13,7 @@
  * Plugin Name:       Auto Backup Before Update
  * Plugin URI:        https://wordpress.org/plugins/auto-backup-before-update/
  * Description:       Automatically creates a backup of each plugin and theme before updates — so you can easily roll back to any previous version if something breaks.
- * Version:           1.0.2
+ * Version:           1.0.3
  * Requires at least: 6.5
  * Requires PHP:      7.4
  * Author:            Sajjad Hossain Sagor
@@ -32,7 +32,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 /**
  * Currently plugin version.
  */
-define( 'ABBU_AUTO_BACKUP_BEFORE_UPDATE_PLUGIN_VERSION', '1.0.2' );
+define( 'ABBU_AUTO_BACKUP_BEFORE_UPDATE_PLUGIN_VERSION', '1.0.3' );
 
 /**
  * Define Plugin Folders Path
